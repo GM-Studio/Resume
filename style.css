@@ -142,7 +142,7 @@
 	font-size: 16px;
 	padding: 5px;
 	display: block;
-	color: ;black
+	color:black;
 }
 
 
@@ -198,8 +198,8 @@
 #timeline .timeline-item .timeline-icon img
 {
 	position: relative;
-	top: 9px;
-	left:9px;
+	top: 10px;
+	left:9.5px;
 
 }
 
